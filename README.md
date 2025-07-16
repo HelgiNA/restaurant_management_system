@@ -99,10 +99,8 @@ Untuk mengompilasi dan menjalankan proyek ini di sistem Anda, pastikan Anda tela
 
 ## 📸 Tampilan Aplikasi
 
-*(Di sini Anda bisa menambahkan screenshot dari aplikasi Anda saat berjalan)*
-
 **Menu Utama:**
-`[Gambar Menu Utama Anda di Sini]`
+`![Menu Utama](gambar.jpg "gambar")`
 
 **Tampilan Daftar Meja:**
 `[Gambar Tampilan Status Meja Anda di Sini]`
@@ -112,4 +110,4 @@ Untuk mengompilasi dan menjalankan proyek ini di sistem Anda, pastikan Anda tela
 
 ## 👨‍💻 Kontributor
 
-Dibuat oleh **[Masukkan Nama Anda Di Sini]** - **[Masukkan NIM Anda Di Sini]**
+Dibuat oleh **Helgi Nur Allamsyah** - **202404010**
