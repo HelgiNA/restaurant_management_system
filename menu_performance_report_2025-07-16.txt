@@ -1,0 +1,10 @@
+========================================
+      LAPORAN PERFORMA MENU
+========================================
+Nama Item                 | Jumlah Terjual
+----------------------------------------
+Pudding Coklat            | 5 porsi
+Nasi Goreng Spesial       | 3 porsi
+Es Teh Manis              | 3 porsi
+Jus Alpukat               | 3 porsi
+Salad Buah                | 2 porsi
