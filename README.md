@@ -100,13 +100,14 @@ Untuk mengompilasi dan menjalankan proyek ini di sistem Anda, pastikan Anda tela
 ## 📸 Tampilan Aplikasi
 
 **Menu Utama:**
-`![Menu Utama](gambar.jpg "gambar")`
+![Menu Utama](assets/MenuUtama.png "Menu Utama")
 
 **Tampilan Daftar Meja:**
-`[Gambar Tampilan Status Meja Anda di Sini]`
+![Tampilan Daftar Meja](assets/DaftarMeja.png "Tampilan Daftar Meja")
 
 **Proses Pembuatan Pesanan:**
-`[Gambar Proses Pembuatan Pesanan Anda di Sini]`
+
+![Proses Pembuatan Pesanan](assets/PembuatanPesanan.png "Proses Pembuatan Pesanan")
 
 ## 👨‍💻 Kontributor
 
